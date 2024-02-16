@@ -1,0 +1,9 @@
+Merge Conflict terjadi ketika commit A dan commit B mengubah bagian code yang sama, sehingga bertabrakan. Git hanya membolehkan dua commit yang berbeda pada file atau line code yang berbeda.
+
+Untuk memperbaiki Merge Conflict, kita dapat menggunakan
+"$ git status" agar mengetahui keadaan lebih jelas
+bisa juga menggunakan
+"$ git diff --diff-filter=U" untuk melihat perubahan file yang belum ke merge
+
+setelah itu, edit file yang bermasalah secara manual agar tidak bertabrakan lagi
+kemudian, "$ git add (file)"

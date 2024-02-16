@@ -1,0 +1,7 @@
+git rebase mengambil semua commit yang dilakukan di suatu branch dan menjalankan commitnya lagi di master branch. 
+
+misalnya ada A-B-C-D(branch(GH)-E-F
+dengan rebase bisa menjadi
+A-B-C-D-E-F(branch)
+kemudian
+A-B-C-D-E-F-G-H

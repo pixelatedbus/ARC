@@ -1,0 +1,2 @@
+fork = membuat copy dari code pada version yang diinginkan, sehingga dapat diubah dengan mandiri
+pull request = mengajukan main branch untuk nge-"pull" perubahan-perubahan dari version yang terdapat di kita
